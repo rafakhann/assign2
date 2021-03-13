@@ -1,0 +1,10 @@
+ASSIGNMENT 2
+
+QUESTION 1:
+time complexity of:
+
+for(i=1;i<=n;i=i*2)
+  for(j=1; j<=i ;j++)
+     print("Hello")
+
+time complexity- O(nlogn)
